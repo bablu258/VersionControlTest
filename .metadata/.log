@@ -23,6 +23,7 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+<<<<<<< HEAD
 !SESSION 2016-11-06 22:03:26.770 -----------------------------------------------
 eclipse.buildId=4.4.2.M20150204-1700
 java.version=1.8.0_31
@@ -33,3 +34,18 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2016-11-06 22:03:49.783
 !MESSAGE Caught exception in FS.readPipe()
+=======
+!SESSION 2016-11-06 20:28:52.935 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/bablubanik/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -data /Users/bablubanik/Desktop/untitled folder/VersionControlTest -product org.eclipse.epp.package.java.product -keyring /Users/bablubanik/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-11-06 20:28:54.322
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-11-06 20:29:07.670
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+>>>>>>> ef9695065aa9f832a2a2e08d82650b726490ae86

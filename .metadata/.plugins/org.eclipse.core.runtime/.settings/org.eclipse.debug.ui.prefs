@@ -1,3 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
+=======
+>>>>>>> ef9695065aa9f832a2a2e08d82650b726490ae86
 preferredTargets=default\:default|
