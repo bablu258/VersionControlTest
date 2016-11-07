@@ -6,5 +6,11 @@ public class SecondClass {
 	{
 		System.out.println("Intitial code for second class");
 	}
+	
+	public static void SecondseonfMethod()
+	{
+		System.out.println("first code from mac class 2");
+	}
+
 
 }

@@ -1,0 +1,16 @@
+package versionControlLearning;
+
+public class SecondClass {
+	
+	public static void SecondFirstMethod()
+	{
+		System.out.println("Intitial code for second class");
+	}
+	
+	public static void SecondseonfMethod()
+	{
+		System.out.println("first code from mac");
+	}
+
+
+}

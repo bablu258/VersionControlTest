@@ -40,3 +40,4 @@ Caused by: java.io.IOException: CreateProcess error=2, The system cannot find th
 	at java.lang.ProcessImpl.<init>(Unknown Source) ~[na:1.8.0_31]
 	at java.lang.ProcessImpl.start(Unknown Source) ~[na:1.8.0_31]
 	... 35 common frames omitted
+2016-11-06 20:33:47,597 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
