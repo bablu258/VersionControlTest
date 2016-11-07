@@ -1,0 +1,9 @@
+package versionControlLearning;
+
+public class ThirdClass {
+
+	public static void SecondFirstMethod()
+	{
+		System.out.println("Intitial code for second class");
+	}
+}

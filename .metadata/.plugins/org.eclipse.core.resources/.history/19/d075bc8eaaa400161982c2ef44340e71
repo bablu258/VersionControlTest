@@ -9,9 +9,6 @@ public class DriverClas {
 		SecondClass second = new SecondClass();
 		second.SecondFirstMethod();
 		
-		ThirdClass third = new ThirdClass();
-		third.ThirdForLoop();
-		
 
 	}
 
